@@ -7,9 +7,21 @@ h1 {
 }
 
 h2 {
-    color: coral; text-align: center; font-size: 40px;
+    color: coral; text-align: center; font-size: 45px;
 }
 
 p {
     text-align: start; font-size: 35px; color: midnightblue;
 }
+
+p {
+    color: darkred;
+}
+
+#BannerFlores.jpg
+
+.itens {
+background-color: beige;
+}
+
+li::marker
